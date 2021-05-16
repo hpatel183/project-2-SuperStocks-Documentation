@@ -7,7 +7,7 @@
 
 ## Sprint 4 - Complete Admin and Stock Endpoints.
 - Create Annotations and Aspects.
-- Create a test packages, classes, and resources.
+- ~~Create a test packages, classes, and resources.
 - Create Static folder.
 - Create Stocks Endpoints.
 
