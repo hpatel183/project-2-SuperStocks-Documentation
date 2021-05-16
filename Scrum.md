@@ -6,10 +6,10 @@
 ## Sprint 3 - Complete User Endpoints.
 
 ## Sprint 4 - Complete Admin and Stock Endpoints and LogBack.
-- Create Annotations and Aspects.
+- ~~Create Annotations and Aspects.~~
 - ~~Create a test packages, classes, and resources.~~
-- Create Static folder.
-- Create Stocks Endpoints.
+- Create Static folder.(Check if needed)
+- Create Stocks Endpoints.(Add Join Table)
 - Add dependencies and Create logback file.
 
 ## Sprint 5 - Complete Homepage, LogIn, and Landing pages.
